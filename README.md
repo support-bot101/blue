@@ -2,10 +2,15 @@
 Layer7 DDoS Attack Scripts
 ## use and install
 to install-
+
 git clone -repository link-
+
 cd blue
+
 Pip install -r requirements.txt
+
 python3 run.py
+
 ### EROROR! 🔥
 - When throws errors like MODULES NOT FOUND just install module 
 - if error code is PYTHON mostly u need run "pip install -r requirements.txt" in the directory of the folder
